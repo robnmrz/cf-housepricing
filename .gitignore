@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 /my_env
+
+/ML 101.ipynb
